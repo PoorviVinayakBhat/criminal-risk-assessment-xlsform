@@ -22,11 +22,12 @@ The objective of this assignment was to convert the provided PDF form into a str
 
 ## Files
 
-- `https://github.com/PoorviVinayakBhat/criminal-risk-assessment-xlsform/blob/main/Criminal_Risk_Assessment_Request.xlsx` – Final XLSForm.
-- `https://github.com/PoorviVinayakBhat/criminal-risk-assessment-xlsform/blob/main/Criminal%20Risk%20Assessment%20Request%20pdf.pdf` – Original reference PDF.
-- `https://github.com/PoorviVinayakBhat/criminal-risk-assessment-xlsform/blob/main/Sample%20XLS%20Form%20Reference.xlsx` – XLSForm reference provided for the assignment.
+- [Final XLSForm](./Criminal_Risk_Assessment_Request.xlsx) – Final XLSForm.
+- [Original Reference PDF](./Criminal%20Risk%20Assessment%20Request.pdf) – Original reference PDF.
+- [XLSForm Reference](./Sample%20XLS%20Form%20Reference.xlsx) – XLSForm reference provided for the assignment.
 
 ## Video Demonstration
 
 Assignment demonstration video:
-<video controls src="video/Assignment-3.mp4" title="Title"></video>
+
+[▶️ Watch the Assignment Demonstration Video](./video/Assignment-3.mp4)
