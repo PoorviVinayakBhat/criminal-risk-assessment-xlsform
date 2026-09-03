@@ -22,9 +22,9 @@ The objective of this assignment was to convert the provided PDF form into a str
 
 ## Files
 
-- `Criminal_Risk_Assessment_Request.xlsx` – Final XLSForm.
-- `Criminal Risk Assessment Request pdf.pdf` – Original reference PDF.
-- `Sample XLS Form Reference.xlsx` – XLSForm reference provided for the assignment.
+- `https://github.com/PoorviVinayakBhat/criminal-risk-assessment-xlsform/blob/main/Criminal_Risk_Assessment_Request.xlsx` – Final XLSForm.
+- `https://github.com/PoorviVinayakBhat/criminal-risk-assessment-xlsform/blob/main/Criminal%20Risk%20Assessment%20Request%20pdf.pdf` – Original reference PDF.
+- `https://github.com/PoorviVinayakBhat/criminal-risk-assessment-xlsform/blob/main/Sample%20XLS%20Form%20Reference.xlsx` – XLSForm reference provided for the assignment.
 
 ## Video Demonstration
 
