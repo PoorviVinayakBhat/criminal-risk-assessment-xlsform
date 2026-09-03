@@ -23,7 +23,7 @@ The objective of this assignment was to convert the provided PDF form into a str
 ## Files
 
 - [Final XLSForm](./Criminal_Risk_Assessment_Request.xlsx) – Final XLSForm.
-- [Original Reference PDF](./Criminal%20Risk%20Assessment%20Request.pdf) – Original reference PDF.
+
 - [XLSForm Reference](./Sample%20XLS%20Form%20Reference.xlsx) – XLSForm reference provided for the assignment.
 
 ## Video Demonstration
